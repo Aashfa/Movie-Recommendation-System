@@ -1,5 +1,3 @@
-# Movie-Recommendation-System# **README.md**
-
 # 🎬 Movie Recommendation System Using Biclustering
 
 A Python-based recommendation system that applies biclustering techniques to identify subgroups of users and movies with similar rating patterns, enabling personalized movie recommendations.
