@@ -183,14 +183,6 @@ Heatmap displaying rating patterns for users × movies within biclusters:
 
 ---
 
-## 🔮 Future Improvements
-
-1. **Hybrid Approach**: Combine biclustering with collaborative/content-based filtering
-2. **Dimensionality Reduction**: Apply PCA or SVD to handle sparsity
-3. **Real-time Updates**: Implement incremental clustering for new users/ratings
-4. **Performance Metrics**: Add RMSE, precision@k, recall@k for evaluation
-5. **Cloud Deployment**: Deploy on AWS/GCP with scalable infrastructure
-
 
 ## 📚 References
 
